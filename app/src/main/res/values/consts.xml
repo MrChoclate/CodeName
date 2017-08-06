@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fcm_server_send_id">772594461176@gcm.googleapis.com</string>
+    <string name="fcm_api_key">key=AAAAs-I36fg:APA91bHBqCF7ZolU3sI_OynCKLtw1LDssJp2Cp40bHcL84NGIicPzGzhM0KcW8aPsSjPrCpmtZuN8w1KLj0-BJmeLY7P_hEPNUz1m8EACoPs99tUqoysNr-5zqwQ1WC46xw12d4X06Rk</string>
+</resources>

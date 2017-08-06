@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Hello</item>
+        <item>fragment</item>
+        <item>gone</item>
+        <item>lockbox</item>
+        <item>robbery</item>
+        <item>finish</item>
+        <item>ox</item>
+        <item>agility</item>
+        <item>python</item>
+        <item>sweat</item>
+        <item>freewill</item>
+        <item>groovy</item>
+        <item>major</item>
+        <item>hangman</item>
+        <item>pieces</item>
+        <item>dislikable</item>
+        <item>agitator</item>
+        <item>collection</item>
+        <item>heaven</item>
+        <item>rum</item>
+        <item>after</item>
+        <item>attachment</item>
+        <item>flirtation</item>
+        <item>tooth</item>
+        <item>grind</item>
+        <item>jigsaw</item>
+        <item>balloon</item>
+        <item>bottle</item>
+        <item>hoist</item>
+        <item>honesty</item>
+        <item>contractual</item>
+    </string-array>
+</resources>

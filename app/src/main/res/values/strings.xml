@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeName</string>
+    <string name="play">Play</string>
+    <string name="red_score">Red: %1$d</string>
+    <string name="blue_score">Blue: %1$d</string>
+    <string name="skip">skip</string>
+    <string name="team_x_wins">Team %1$s wins !</string>
+</resources>
